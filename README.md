@@ -29,7 +29,7 @@
 
 </td>
 <td width="45%">
-  <img src="assets/coding.gif" alt="Coding Gif" width="400"/>
+  <img src="assets/animation_500.gif" alt="Coding Gif" width="400"/>
 </td>
 </tr>
 </table>
