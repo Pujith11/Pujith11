@@ -1,6 +1,8 @@
 # 👋 Hey there, I'm Pujith Ch!  
 
-**Aspiring Software Developer| Problem Solver**  
+
+
+**Aspiring Software Developer| Problem Solver**                                                                    https://responsive-portfolio-website-virid.vercel.app/Assets/animation_500.g
 
 💡 Passionate about building smart, efficient, and user-friendly solutions.  
 🌱 Continuously learning & growing in software development and data science.  
