@@ -39,18 +39,18 @@
 ## 🛠 Tech Stack  
 
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-blue?logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white)  
 
 ---
 
