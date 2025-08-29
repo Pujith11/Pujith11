@@ -19,7 +19,7 @@
 <tr>
 <td width="55%">
   
-- 🌐 All about me is at [My Portfolio](https://vercel.com/pujith11s-projects/responsive-portfolio-website)  
+- 🌐 All about me is at [My Portfolio](https://responsive-portfolio-website-virid.vercel.app/)  
 - 🚀 Currently working on **Full Stack Projects**  
 - 🌱 Learning **MERN Stack** & **Data Science**  
 - 🤝 Open to collaborate on **Web & ML Projects**  
